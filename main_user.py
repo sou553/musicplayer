@@ -1,9 +1,8 @@
-import page as pap
+import page
 
 
 def main():
-    track = 0
-    pap.play_music(track)
+    page.select_music()
 
 
 
